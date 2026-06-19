@@ -1,0 +1,11 @@
+#SubmitButton{
+    color: white;
+    background-image: linear-gradient(to right, rgb(139,92,246), rgb(14,165,233));
+    border: none;
+    padding: 10px;
+    font-weight: 600;
+}
+body{
+    background:rgb(247,255,250);
+
+}

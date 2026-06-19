@@ -1,0 +1,26 @@
+body{
+    background:rgb(247,255,250);
+}
+.allposts{
+    
+    padding:10px;
+    width:600px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+.posts{
+    background: white;
+    border:1px solid black;
+    border-radius:10px;
+    padding:10px;
+    box-shadow:0px 0px 4px(0,0,0,0.4);
+}
+.viewPostButton{
+    color: white;
+    background-image: linear-gradient(to right, rgb(139,92,246), rgb(14,165,233));
+    border: none;
+    padding: 10px;
+    font-weight: 600;
+}
